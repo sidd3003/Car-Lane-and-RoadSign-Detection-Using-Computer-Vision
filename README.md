@@ -1,7 +1,3 @@
-Sure, here is a brief introduction you can use for your project's README file on GitHub:
-
----
-
 # Car, Lane, and Road Sign Detection
 
 This project focuses on developing a comprehensive system for detecting cars, lanes, and road signs using advanced computer vision techniques. The goal is to enhance the capabilities of autonomous vehicles and driver assistance systems by accurately identifying crucial elements on the road.
