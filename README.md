@@ -1,4 +1,22 @@
-# Computer Vision using Matlab
+Sure, here is a brief introduction you can use for your project's README file on GitHub:
+
+---
+
+# Car, Lane, and Road Sign Detection
+
+This project focuses on developing a comprehensive system for detecting cars, lanes, and road signs using advanced computer vision techniques. The goal is to enhance the capabilities of autonomous vehicles and driver assistance systems by accurately identifying crucial elements on the road.
+
+## Features
+
+- **Car Detection:** Identifies and tracks vehicles in real-time to prevent collisions and ensure safe distance maintenance.
+- **Lane Detection:** Recognizes and follows lane markings to assist in lane-keeping and lane departure warning systems.
+- **Road Sign Detection:** Detects and interprets road signs to inform the driver or the autonomous system of traffic rules and regulations.
+
+## Technologies Used
+
+- **Deep Learning:** Utilizes convolutional neural networks (CNNs) for object detection and classification.
+- **OpenCV:** Employs the OpenCV library for image processing and computer vision tasks.
+- **TensorFlow/PyTorch:** Implements machine learning models using TensorFlow or PyTorch frameworks.
 
 ## Car Detection and Tracking
 Detecting and tracking cars on the highway
