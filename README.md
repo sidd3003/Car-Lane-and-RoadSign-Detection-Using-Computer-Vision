@@ -2,6 +2,8 @@
 
 This project focuses on developing a comprehensive system for detecting cars, lanes, and road signs using advanced computer vision techniques. The goal is to enhance the capabilities of autonomous vehicles and driver assistance systems by accurately identifying crucial elements on the road.
 
+This was a passion project I developed last year as an introduction to Computer Vision and Autonomous vehicles. Through this project, I aim to understand how the underlying technologies work and what can be done to improve and enhance it further.
+
 ## Features
 
 - **Car Detection:** Identifies and tracks vehicles in real-time to prevent collisions and ensure safe distance maintenance.
